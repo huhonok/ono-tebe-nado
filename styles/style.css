@@ -1,1 +1,52 @@
-/* место для вашего кода */
+
+
+.header {
+   display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+   align-items: center;
+  } 
+
+.header__logo {
+    align-items: center;
+}  
+
+.header__logo-image {
+    display: flex;
+    width: 148px;
+    height: 105px;
+    /*width: 50%;*/
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.header__links-list {
+    list-style-type: circle;
+    display: flex;
+    column-gap: 20px;
+  /*  justify-content: space-around;
+    align-items: center;
+    flex-shrink: 0;*/
+}
+
+.header__links-list-item_no-bullit {
+    list-style-type: none;
+}
+
+.header__link_active {
+    text-decoration: none;
+}
+
+.cover {
+    background-image: url(../images/cover.jpg);
+    background-size: cover;
+    width: 1440px;
+    height: 757px;
+    z-index: 1; 
+}
+
+.overlay {
+    background-color: rgba(0,0,0,0.5); /* Black background with opacity */
+    z-index: 2; 
+}
