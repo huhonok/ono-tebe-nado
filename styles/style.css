@@ -1,12 +1,13 @@
 main {
   display: flex;
   flex-direction: column;
+  justify-content: center;
 }
 .content_section {
   box-sizing: border-box;
   max-width: 1440px;
   width: 100%;
-  margin: auto;
+  margin: auto; 
 }
 
 .header {
