@@ -54,18 +54,18 @@
   justify-self: flex-end;
 }
 .header__address {
-    color: #000;
-    font-size: 18px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 24.3px;
+  color: #000;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24.3px;
 }
 
 .header_font {
-    color: #000;
-    font-size: 18px;
-    font-style: normal;
-    font-weight: 400;
+  color: #000;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
 }
 .cover {
   background-image: url(../images/cover.jpg);
