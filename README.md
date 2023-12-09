@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-=======
-# ono-tebe-nado
-Проект "Оно тебе надо"
-попытка поправить ридми
->>>>>>> 0000d985908694f73664da3074b48ba82a25abd5
+https://github.com/huhonok/ono-tebe-nado.git
