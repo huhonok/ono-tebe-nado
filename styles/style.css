@@ -50,7 +50,6 @@
   padding: 5px 0 7px 0;
   border: 1px white;
   max-width: 240px;
-  /* max-height: 97px;  */
   justify-self: flex-end;
 }
 .header__address {
@@ -72,8 +71,7 @@
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-
-  /* height: 757px; */
+  
   z-index: 0;
   position: relative;
 
@@ -133,7 +131,7 @@
   font-weight: 400;
   font-size: 22px;
   font-style: normal;
-  /* font-family: inherit; убрать обратно*/
+  font-family: Raleway, sans-serif;
   line-height: normal;
   background-color: transparent;
   min-height: 52px;
@@ -141,6 +139,7 @@
   text-align: center;
   text-transform: uppercase;
   justify-self: flex-end;
+  cursor: pointer;
 }
 
 .lots {
