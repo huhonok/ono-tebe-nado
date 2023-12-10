@@ -133,7 +133,7 @@
   font-weight: 400;
   font-size: 22px;
   font-style: normal;
-  font-family: inherit;
+  /* font-family: inherit; убрать обратно*/
   line-height: normal;
   background-color: transparent;
   min-height: 52px;
