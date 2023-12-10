@@ -274,7 +274,6 @@
 }
 
 .about__logo-image {
-  background-image: url(../images/logo-white.svg);
   z-index: -1;
   /* position: absolute; */
   width: 148px;
@@ -306,12 +305,17 @@
 }
 
 .footer {
+  margin: auto;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   align-items: flex-start;
   box-sizing: border-box;
   padding: 180px 50px 90px 50px;
+}
+.footer__menu {
+  box-sizing: border-box;
+  padding: 0 356px 0 356px;
 }
 .footer__menu-list {
   list-style-type: none;
